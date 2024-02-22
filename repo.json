@@ -1,0 +1,6 @@
+{
+  "name": "Rowdy's Test Extensions",
+  "description": "Enjoy the results of my sleepless nights!",
+  "manifestVersion": 1,
+  "pluginLists": ["https://raw.githubusercontent.com/rushi-chavan/rowdy-cs-extensions/builds/plugins.json"]
+}

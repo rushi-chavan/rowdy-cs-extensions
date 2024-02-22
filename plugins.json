@@ -1,0 +1,60 @@
+[
+    {
+        "iconUrl": "https://desixflix.com/wp-content/uploads/2021/06/cropped-Play-1-Hot-icon-192x192.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/rushi-chavan/rowdy-cs-extensions",
+        "fileSize": 10628,
+        "status": 0,
+        "language": "en",
+        "authors": [
+            "RowdyRushya"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 1,
+        "internalName": "DesiXFlix",
+        "description": "[!] (This Extension has been moved to 'Avocado/Rowdy's Extensions' repo)",
+        "url": "https://raw.githubusercontent.com/rushi-chavan/rowdy-cs-extensions/builds/DesiXFlix.cs3",
+        "name": "DesiXFlix"
+    },
+    {
+        "iconUrl": "https://myflixerz.me/images/favicon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/rushi-chavan/rowdy-cs-extensions",
+        "fileSize": 16194,
+        "status": 0,
+        "language": "en",
+        "authors": [
+            "RowdyRushya"
+        ],
+        "tvTypes": [
+            "Movies",
+            "TV Series"
+        ],
+        "version": 1,
+        "internalName": "MyFlixer",
+        "description": "[!] (This Extension has been moved to 'Avocado/Rowdy's Extensions' repo)",
+        "url": "https://raw.githubusercontent.com/rushi-chavan/rowdy-cs-extensions/builds/MyFlixer.cs3",
+        "name": "MyFlixer"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/master/logos/ultima.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/rushi-chavan/rowdy-cs-extensions",
+        "fileSize": 24718,
+        "status": 0,
+        "language": "en",
+        "authors": [
+            "RowdyRushya"
+        ],
+        "tvTypes": [
+            "All"
+        ],
+        "version": 1,
+        "internalName": "Ultima",
+        "description": "[!] (This Extension has been moved to 'Avocado/Rowdy's Extensions' repo)",
+        "url": "https://raw.githubusercontent.com/rushi-chavan/rowdy-cs-extensions/builds/Ultima.cs3",
+        "name": "Ultima"
+    }
+]
